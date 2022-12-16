@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> meu site! </title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+    <h1>Titulo 1</h1>
+    <h2>Titulo 2</h2>
+    <h3>Titulo 3</h3>
+    <h4>Titulo 4</h4>
+    <h5>Titulo 5</h5>
+    <h6>Titulo 6</h6>
+    <p>paragrafo</p>
+    <hr>
+    <br>
+    <b>Esse texto está em negrito</b><br>
+    <i>Esse texto está em itálico</i><br>
+    <u>Esse texto está com undeline</u><br>
+    <strike>Esse texto está riscado</strike><br>
+
+    <h2>Indices</h2>
+    <ul type="disc">
+        <!--lista não ordenada: circle,square,disc-->
+        <li>Home</li>
+        <li>Quem somos</li>
+        <li>Contatos</li>
+    </ul>
+
+    <h2>Perguntas</h2>
+    <!--lista ordenada: 1,a,A,I-->
+    <ol type="I">
+        <li>Comida favorita?</li>
+        <li>Carro favorito?</li>
+        <li>Série favorita?</li>
+    </ol>
+
+    <img src="imagens/ferrari.jpg" width="400" height="">
+    <br><br>
+    <table border="2" width="100%">
+        <tr>
+            <th>Código</th>
+            <th>Produto</th>
+            <th>Preço</th>
+            <th>Imagem</th>
+        </tr>
+        <tr>
+            <td>001</td>
+            <td>Notebook</td>
+            <td>R$ 2.500,00</td>
+            <td><img src="imagens/ferrari.jpg" width="150"></td>
+        </tr>
+        <tr>
+            <td>002</td>
+            <td>Tablet</td>
+            <td>R$ 999,99</td>
+            <td><a href="https://www.webmotors.com.br/carros/estoque/ferrari">Ferrari</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Desconto</td>
+            <td colspan="3">Cupom1 -R$ 10</td>
+        </tr>
+        <tr>
+            <td colspan="3">Cupom2 -R$ 12</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td colspan="3">R$ 3.499,99</td>
+        </tr>
+    </table><br><br>
+
+    <h2>Login</h2>
+
+    <form>
+        Login:<br>
+        <input type="text" name="login" value="">
+        <br> Senha:
+        <br>
+        <input type="password" name="senha" value="">
+        <br>
+        <input type="submit" name="" value="logar">
+    </form>
+    <br>
+    <form>
+        <h2>Cadastre-se</h2>
+
+        Nome: <br>
+        <input type="text" name="nome" value="">
+        <br><br> sexo:
+        <br>
+        <input type="radio" name="sexo" value="M"> MASCULINO
+        <br>
+        <input type="radio" name="sexo" value="F"> FEMININO
+        <br><br>
+
+        <h2>Interesses</h2>
+        <input type="checkbox" name="interesses" value="">Futebol<br>
+        <input type="checkbox" name="interesses" value="">Cursos<br>
+        <input type="checkbox" name="interesses" value="">Moda<br>
+        <br><br>
+        <h2>Estados</h2>
+        <select name="estados">
+        <option value="sp">SP</option>
+        <option value="rj">RJ</option>
+        <option value="mg">MG</option>
+</select><br><br>
+
+        <h2>Observações</h2>
+        <textarea></textarea><br><br>
+
+        <input type="submit" name="" value="cadastrar">
+    </form>
+
+    <strong>Caracteres especiais para html</strong>
+    <a href="https://www.devmedia.com.br/html-entities-html-symbols-html-characters/1011">DEVMEDIA</a>
+</body>
+
+</html>

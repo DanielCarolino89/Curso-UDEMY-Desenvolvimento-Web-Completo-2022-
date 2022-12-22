@@ -1,6 +1,6 @@
-Curso-UDEMY-Desenvolvimento-Web-Completo-2022-
+<h1>Curso-UDEMY-Desenvolvimento-Web-Completo-2022</h1>
 
-Descrição
+<h3>Descrição</h3>
 Bem vindo ao curso Desenvolvimento Web Completo - 20 cursos + 20 projetos, o curso mais completo e bem avaliado da categoria.
 
 O curso conta com mais de 570 aulas, ao todo são mais de 110 horas de videoaulas em que são abordadas as principais tecnologias web do momento.
@@ -17,7 +17,8 @@ Conheça o curso mais COMPLETO da Udemy, que reúne o Desenvolvimento Web front-
 
 Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo:
 
-1) HTML5
+<h5>
+1. HTML5
 
 - Projeto UNES (Página institucional de uma universidade)
 
@@ -138,49 +139,74 @@ Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo
 
 
 20) Criando aplicações Mobile com IONIC
-- Projeto Gasolina ou Álcool
+- Projeto Gasolina ou Álcool</h5>
 
 
 
 Junte-se a mais de 240 mil alunos que já fizeram e aprovaram os nossos treinamentos!
 
-O que você aprenderá
+<h3>O que você aprenderá</h3>
+
 Criar aplicações WEB: Do front ao back-end e banco de dados com HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC e Wordpress.
+
 Integrar as principais tecnologias Web através de projetos reais. Tudo na prática!
+
 Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, trabalhando de onde quiser.
+
 Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia IONIC.
+
 HTML5: cabeçalhos, listas, imagens, links, tabelas, formulários, hear, nav, footer, article, section aside.
+
 CSS3 Intermediário: seletores, div & span, cores, modelo caixa, elementos flutuantes, posicionamento, formatando links.
+
 CSS3 avançado: herança, especifidade, barra navegação vertical e horizontal, abas, layouts líquidos, largura fixa, parallax, fontes customizadas.
+
 Recursos especiais: normalize css, cantos arredondados, degradês, sombras, animações, transições, flexbox.
+
 Bootstrap: responsivo, textos, alinhamentos, cores, media query, botões, barra navegação, listas, inputs, alertas, tabelas, cards, grids, flexbox.
+
 Javascript: variáveis, array, condicionais, operadores de comparação, operadores lógicos, funções, eventos, DOM, loops, BOM.
+
 ES6: var e let, orientação a objetos, literais, prototype, web storage, funções de array.
+
 PHP7: variáveis, arrays, condicionais, operadores de comparação e lógicos, funções, orientação a objetos, abstração, herança, polimorfismo, interfaces.
+
 Banco de Dados MySQL: insert, update, select, delete, filtros, operadores de comparação e lógicos, relacionamentos, inner join, left join, right join.
+
 Ajax: requisições síncronas, requisições assíncronas, XMLHttpRequest, estados da requisição, status, notação XML, notação JSON.
+
 PHP com PDO e MySQL: conexão com banco, executando instruções SQL, fetch, fetch all, foreach, SQL injection.
+
 Publicação de aplicações Web na Internet: DNS, hospedagem, cPainel, FTP, configuração do PHP e MySQL.
-jQuery: selecionando e manipulando elementos HTML, navegando entre elementos, manipulando CSS, eventos de teclado, mouse e formulário, animações, ajax..
+
+jQuery: selecionando e manipulando elementos HTML, navegando entre elementos, manipulando CSS, eventos de teclado, mouse e formulário, animações, ajax.
+
 MVC com PHP: composer, controlador, rota, modelo, visão, abstração, reutilizando layout, conexão com banco de dados.
+
 Projeto Twitter clone: registro e autenticação de usuários, criando timeline, pesquisando usuários, exibindo tweets, seguindo e deixando de seguir, paginação.
+
 API com framework Slim: requisições, rotas, dependências, middleware, respostas, banco de dados, criando API.
+
 SAAS: alinhamento, variáveis, interpolação, for, while, each, funções, mixin, herança, diretivas de controle.
+
 IONIC: componentes, botões, entrada de dados, data biding, angular, grids, navegação e modelo.
+
 WordPress: instalação, temas, personalização, plugins, usuários, comentários, criador de páginas com elementor.
-Há algum requisito ou pré-requisito para o curso?
+
+<h3>Há algum requisito ou pré-requisito para o curso?</h3>
+
 Você não precisa saber nada sobre desenvolvimento web ou qualquer uma das tecnologias propostas neste curso para se inscrever e iniciar seus estudos. Você só precisa do desejo de aprender.
 Todas as ferramentas utilizadas neste treinamento são de uso profissional e livre, ou seja, são gratuitas, logo, você não precisará de nenhum investimento financeiro em softwares para iniciar sua nova profissão como desenvolver web.
 Se você tem habilidades básicas para utilizar um computador e acessar a internet e estiver em busca de uma nova profissão, este curso é para você.
-Para quem é este curso:
+
+<h3>Para quem é este curso:</h3>
+
 Qualquer pessoa com vontade de aprender a criar sites e sistemas web profissionais.
 Estudantes e profissionais que desejam aprender ou se aprofundar nas tecnologias HTML5, CSS3, Bootstrap4, JavaScript Moderno (ES6), Jquery, PHP 7, Framework SLIM, Orientação a Objetos, PDO, DAO, MVC, MySQL, IONIC, Wordpress.
 Estudantes interessados em aprender na prática.
-Instrutor
 
-Jorge Sant Ana
-
-Programador
+<h2>Instrutor<h2>
+<h3>Jorge Sant Ana Programador</h3>
 
 Olá, meu nome é Jorge Santa Ana. Sou tecnólogo em Informática para Gestão de Negócios pela Fatec e possuo pós-graduação em Gestão de Projetos de TI pela Fundação Vanzolini.
 Iniciei minha jornada como programador aos 18 anos de idade e desde então sou um entusiasta apaixonado pela área de desenvolvimento de software.
